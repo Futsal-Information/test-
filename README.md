@@ -30,6 +30,8 @@ README file mofdified on topic branch
 
 それもいっちょ行くよ！！！！！
 
+おいおい何回やりゃ気がすむんだよ。。。
+
 
 ## メンバー
 * 小山だけ
